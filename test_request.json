@@ -1,0 +1,17 @@
+{
+  "history": [
+    {
+      "session": 7056495,
+      "dice": [4, 1, 3],
+      "total": 8,
+      "result": "xiu"
+    },
+    {
+      "session": 7056496,
+      "dice": [1, 6, 6],
+      "total": 13,
+      "result": "tai"
+    }
+  ],
+  "target_session": 7056497
+}
